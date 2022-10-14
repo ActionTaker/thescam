@@ -1,0 +1,23 @@
+{
+  "name": "The Scam. #8829",
+  "description": "click the mint button again?",
+  "image": "ipfs://bafybeid2difnsdc6dk4hddlbsqb3hpy4nkqik6j5qlh6y4sufozp54prja/8829.png",
+  "dna": "f1dfa3c73bad125997813c34c28c7b069e7d74ee",
+  "edition": 8829,
+  "date": 1657327349955,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "16"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body_20"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "tail_2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

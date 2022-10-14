@@ -1,0 +1,23 @@
+{
+  "name": "The Scam. #4162",
+  "description": "click the mint button again?",
+  "image": "ipfs://bafybeid2difnsdc6dk4hddlbsqb3hpy4nkqik6j5qlh6y4sufozp54prja/4162.png",
+  "dna": "f49b5b3af3c1b2977be4ecc88aab1b4428858075",
+  "edition": 4162,
+  "date": 1657327121483,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "27"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body_12"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "tail_5"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

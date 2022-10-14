@@ -1,0 +1,23 @@
+{
+  "name": "The Scam. #1969",
+  "description": "click the mint button again?",
+  "image": "ipfs://bafybeid2difnsdc6dk4hddlbsqb3hpy4nkqik6j5qlh6y4sufozp54prja/1969.png",
+  "dna": "857283f71ea8d3609f8da83d1c10544580708a50",
+  "edition": 1969,
+  "date": 1657327015642,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "33"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body_13"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "tail_8"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

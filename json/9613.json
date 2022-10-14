@@ -1,0 +1,23 @@
+{
+  "name": "The Scam. #9613",
+  "description": "click the mint button again?",
+  "image": "ipfs://bafybeid2difnsdc6dk4hddlbsqb3hpy4nkqik6j5qlh6y4sufozp54prja/9613.png",
+  "dna": "13f1d1accfcd714ad0d7e590dd4b39527450d768",
+  "edition": 9613,
+  "date": 1657327390133,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body_18"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "tail_4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
